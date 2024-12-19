@@ -9,3 +9,4 @@ minio/minio:RELEASE.2022-01-08T03-11-54Z.hotfix.f533071b4
 rabbitmq:3.9.11-management
 nacos/nacos-server:v2.1.1
 nacos/nacos-server:1.4.1
+jenkins/jenkins:2.303.2-lts-centos7
