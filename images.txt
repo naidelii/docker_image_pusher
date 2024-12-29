@@ -14,3 +14,4 @@ jenkins/jenkins:2.346.2-centos7-jdk8
 minio/minio:RELEASE.2024-02-13T15-35-11Z
 nginx:1.24.0
 zerotier/zerotier:1.14.0
+jeessy/ddns-go:latest
