@@ -16,3 +16,4 @@ nginx:1.24.0
 zerotier/zerotier:1.14.0
 jeessy/ddns-go:latest
 alpine:latest
+golang:alpine
