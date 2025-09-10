@@ -20,3 +20,4 @@ golang:alpine
 hiromuhota/webspoon
 redis:5.0.14
 linuxserver/letsencrypt
+mysql:8.0.39
