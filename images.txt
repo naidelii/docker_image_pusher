@@ -1,1 +1,2 @@
 linuxserver/swag:5.0.0
+vaultwarden-server:1.35.0
